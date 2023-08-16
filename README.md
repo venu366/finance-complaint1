@@ -20,7 +20,7 @@ The problem is to identify registered complaint will be disputed by customer or 
 5. MongoDB
 
 
-## Infrastructure Required.
+## Infrastructure Required
 
 1. GCP Compute Engine
 2. S3 Bucket
